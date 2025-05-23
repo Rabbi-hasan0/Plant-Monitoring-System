@@ -43,6 +43,8 @@
       <strong>8. Battery Box</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/battery-box.jpg" width="300" height="300">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>8. Battery Charger</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/charger.png" width="300" height="300">
