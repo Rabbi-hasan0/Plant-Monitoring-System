@@ -5,35 +5,35 @@
   <tr>
     <td align="center">
       <strong>1. Soil Moisture Sensor</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/soil-sensor.jpg" width="250">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/soil-sensor.jpg" width="300" height="300">
     </td>
     <td align="center">
       <strong>2. DHT11</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/dht11-digital-temperature-and-humidity-sensor.jpg" width="250">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/dht11-digital-temperature-and-humidity-sensor.jpg" width="300" height="300">
     </td>
     <td align="center">
       <strong>3. ESP8266-NodeMCU</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/ESP8266-NodeMCU.jpg" width="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/ESP8266-NodeMCU.jpg" width="300" height="300">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>4. Relay</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/1-channel-5v-relay-board-module-robotics-bangladesh.jpg" width="250">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/1-channel-5v-relay-board-module-robotics-bangladesh.jpg" width="300" height="300">
     </td>
     <td align="center">
       <strong>5. Pump</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/mini-pump.jpg" width="150">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/mini-pump.jpg" width="300" height="300">
     </td>
     <td align="center">
       <strong>6. LCD-Display-(16X2)</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/LCD-Display-(16X2).jpg" width="150">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/LCD-Display-(16X2).jpg" width="300" height="300">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>7. 5v Battery</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/5v-battery.jpg" width="150">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/5v-battery.jpg" width="300" height="300">
     </td>
     <td></td>
   </tr>
