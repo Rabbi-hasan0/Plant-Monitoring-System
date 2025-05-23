@@ -56,14 +56,14 @@
   </tr>
 </table>
 
-
-<h2 align="left"> Circuit Diagram of Our project </h2> 
 <div align="center">
+  <h2 align="left"> Circuit Diagram of Our project </h2> 
   <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Circuit.png" width="500" height="300">
 </div>
 
 
 <div>
+  <h2 align="left"> Code for Our project </h2> 
   
   ```c++
   #define BLYNK_TEMPLATE_ID "TMPL6qkgDyA5i"
