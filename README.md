@@ -59,5 +59,5 @@
 
 <h2 align="left"> Circuit Diagram of Our project </h2> 
 <div align="center">
-  <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Circuit.png" width="400" height="300">
+  <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Circuit.png" width="500" height="300">
 </div>
