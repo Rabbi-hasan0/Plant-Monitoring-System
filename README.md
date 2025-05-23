@@ -49,6 +49,10 @@
       <strong>10. Bread-Board</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/board.jpg" width="300" height="300">
     </td>
+    <td align="center">
+      <strong>11. Wire</strong><br>
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Male-to-Female-Jumper-Wire.jpg" width="300" height="300">
+    </td>
   </tr>
 </table>
 
