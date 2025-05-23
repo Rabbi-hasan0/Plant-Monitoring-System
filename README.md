@@ -13,7 +13,7 @@
     </td>
     <td align="center">
       <strong>3. ESP8266-NodeMCU</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/ESP8266-NodeMCU.jpg" width="250">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/ESP8266-NodeMCU.jpg" width="300">
     </td>
   </tr>
   <tr>
