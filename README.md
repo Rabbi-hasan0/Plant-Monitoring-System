@@ -220,15 +220,15 @@ void loop() {
   <tr>
     <td align="center">
       <strong>Garden Setup</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.54%20PM.jpeg" width="300" height="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.54%20PM.jpeg" width="300" height="250">
     </td>
     <td align="center">
       <strong>Circuit Setup</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="300" height="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="300" height="250">
     </td>
     <td align="center">
       <strong>Full Setup</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="400" height="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="400" height="250">
     </td>
   </tr>
  </table>
