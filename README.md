@@ -1,9 +1,9 @@
 ## Plant-Monitoring-System - Iot Project
-<p>
-      1. (Project Report)[https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Papers%20of%20project/IoT%20Report.pdf]
-      2. [Project presentation Slide](https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Papers%20of%20project/Presentation.pdf)
-      
-</p>
+### Project Documents
+1. [Project Report](https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Papers%20of%20project/IoT%20Report.pdf)
+2. [Project Presentation Slide](https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Papers%20of%20project/Presentation.pdf)
+
+
 <p align="center">
       <strong>Our project Final Look</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="300" height="300">
