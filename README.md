@@ -1,4 +1,11 @@
 ## Plant-Monitoring-System - Iot Project
+<p align="center">
+      <strong>Our project</strong><br>
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="500" height="300">
+</p>
+
+
+
 
 <h3 align="left">All Components with Name</h3>
 <table>
