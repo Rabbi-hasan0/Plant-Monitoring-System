@@ -1,7 +1,7 @@
 ## Plant-Monitoring-System - Iot Project
-## Component Need:
+## All Component with name:
 
-<h2 align="left"> 1. Find Cycle On Directed Graph </h2> 
+<h3 align="left"> soil moisture sensor </h3> 
 <div align="center">
-    <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/soil-sensor.jpg" width="560" height="315">
+    <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/soil-sensor.jpg" width="300" height="300">
 </div>
