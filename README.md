@@ -1,7 +1,7 @@
 ## Plant-Monitoring-System - Iot Project
 <p align="center">
       <strong>Our project Final Look</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="400" height="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="300" height="300">
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="500" height="300">
 </p>
 
