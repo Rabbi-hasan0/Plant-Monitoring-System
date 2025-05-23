@@ -11,8 +11,6 @@
       <strong>2. DHT11</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/dht11-digital-temperature-and-humidity-sensor.jpg" width="150">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>3. ESP8266-NodeMCU</strong><br>
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/ESP8266-NodeMCU.jpg" width="150">
