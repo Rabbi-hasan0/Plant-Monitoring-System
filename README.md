@@ -212,3 +212,22 @@ void loop() {
 }
 ```
 </div>
+
+
+<div>
+  <h2 align="left"> Final Look of out project </h2> 
+  <tr>
+    <td align="center">
+      <strong>Garden Setup</strong><br>
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.54%20PM.jpeg" width="300" height="300">
+    </td>
+    <td align="center">
+      <strong>Circuit Setup</strong><br>
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/WhatsApp%20Image%202025-05-21%20at%201.27.38%20PM.jpeg" width="300" height="300">
+    </td>
+    <td align="center">
+      <strong>Full Setup</strong><br>
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="300" height="300">
+    </td>
+  </tr>
+</div>
