@@ -216,6 +216,7 @@ void loop() {
 
 <div>
   <h2 align="left"> Final Look of out project </h2> 
+  <table> 
   <tr>
     <td align="center">
       <strong>Garden Setup</strong><br>
@@ -230,4 +231,5 @@ void loop() {
       <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="300" height="300">
     </td>
   </tr>
+ </table>
 </div>
