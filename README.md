@@ -228,7 +228,7 @@ void loop() {
     </td>
     <td align="center">
       <strong>Full Setup</strong><br>
-      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="300" height="300">
+      <img src="https://github.com/Rabbi-hasan0/Plant-Monitoring-System/blob/main/Image/Full-setup.jpeg" width="400" height="300">
     </td>
   </tr>
  </table>
